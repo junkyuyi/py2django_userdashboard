@@ -1,0 +1,33 @@
+* {
+	/*outline: 1px dotted purple;*/
+}
+
+/* Header Styling */
+div.header {
+	border-bottom: 1px solid black;
+}
+
+div.menu {
+	margin: 0px auto;
+	width: 1160px;
+	padding: 20px;
+}
+
+li.move-right {
+	float: right;
+}
+
+/* App specific Styling */
+div.body {
+	margin: 0px auto;
+	width: 1160px;
+	padding: 20px;
+}
+
+.btn-to-right {
+	float: right;
+}
+
+table {
+	width: 100%;
+}
